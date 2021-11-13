@@ -25,23 +25,23 @@
 > [프로젝트 상세 설명]:(https://github.com/heyjinss/Pms_project_T) 참고 
 
 
-### 2. [wannafit 건강 서비스 프로젝트](https://github.com/heyjinss/Wannafit_T)
-> jsp기반의 건강관리 웹 서비스 (팀 프로젝트) 
-> 개발 기간 : 2021.9.10 ~ 9.24 
+### 2. [wannafit 건강 서비스 프로젝트](https://github.com/heyjinss/Wannafit_T)</br>
+> jsp기반의 건강관리 웹 서비스 (팀 프로젝트) </br>
+> 개발 기간 : 2021.9.10 ~ 9.24 </br>
 
-> 기술 스택 : jsp 기반  
-> java/Gradle/oracle/ajax/javascript/css/html/jsp
-> [프로젝트 상세 설명]:(https://github.com/heyjinss/Wannafit_T) 참고 
+> 기술 스택 : jsp 기반  </br>
+> java/Gradle/oracle/ajax/javascript/css/html/jsp</br>
+> [프로젝트 상세 설명]:(https://github.com/heyjinss/Wannafit_T) 참고</br> 
 
 
-### 3. [Picmagine 창작물 공유 서비스 프로젝트](https://github.com/heyjinss/Picmagin_T)
-> PMS시스템 기반의 기업 프로젝트 관리 서비스 (팀 프로젝트) 
-> 개발 기간 : 2021.8.1 ~ 8.14 
+### 3. [Picmagine 창작물 공유 서비스 프로젝트](https://github.com/heyjinss/Picmagin_T)</br>
+> PMS시스템 기반의 기업 프로젝트 관리 서비스 (팀 프로젝트) </br>
+> 개발 기간 : 2021.8.1 ~ 8.14 </br>
 
-> 기술 스택 : jsp기반 
-> java/oracle/javascript/css/html 
-> [프로젝트 상세 설명]:(https://github.com/heyjinss/Picmagin_T) 참고 
+> 기술 스택 : jsp기반 </br>
+> java/oracle/javascript/css/html </br> 
+> [프로젝트 상세 설명]:(https://github.com/heyjinss/Picmagin_T) 참고 </br> 
 
-### 그 외 console 기반 프로젝트 
--donghang
--Jstudy 
+### 그 외 console 기반 프로젝트 </br>
+-donghang </br>
+-Jstudy </br>
