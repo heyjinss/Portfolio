@@ -9,9 +9,9 @@
 
 
 ## 📍: Contact 
--Heyjinss@naver.com
--https://github.com/heyjinss
--https://heyjinss.tistory.com/
+-Heyjinss@naver.com > </br>
+-https://github.com/heyjinss </br>
+-https://heyjinss.tistory.com/ </br>
 
 
 ## 📍: Project 
