@@ -17,11 +17,11 @@
 ## 📍: Project 
 
 ### 1. [PMS프로젝트](https://github.com/heyjinss/Pms_project_T)
-> PMS시스템 기반의 기업 프로젝트 관리 서비스 (팀 프로젝트) 
-> 개발 기간 : 2021.10.1 ~ 10.26 
+> PMS시스템 기반의 기업 프로젝트 관리 서비스 (팀 프로젝트)  </br>
+> 개발 기간 : 2021.10.1 ~ 10.26  </br>
 
 > 기술 스택 : 
-> java/srping/Gradle/oracle/ajax/mybatis/javascript/css/html 
+> java/srping/Gradle/oracle/ajax/mybatis/javascript/css/html  </br>
 > [프로젝트 상세 설명]:(https://github.com/heyjinss/Pms_project_T) 참고 
 
 
